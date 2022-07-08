@@ -1,5 +1,3 @@
-
-
 goodlist=[]
 badlist=[]
 
@@ -24,7 +22,6 @@ while x!=1:
         break
     else:
         badlist.append(phr)
-
 
 print("Πες κάτι στον υπολογιστή! Θα αναγνωρίσει ένα κομπλιμέντο; Όταν θες να σταματήσεις γράψε ΣΤΟΠ")
 phrase = input()
